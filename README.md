@@ -6,7 +6,11 @@ A single-page text editor application that runs in the browser. It features seve
 
 ## Deployment
 
+https://thawing-chamber-19948.herokuapp.com/
+
 ## Screenshot
+
+<img width="774" alt="Text-Editor" src="https://user-images.githubusercontent.com/108305121/232937589-87a02778-a785-4baa-ab20-35da27a4e688.png">
 
 ## Technologies
 
